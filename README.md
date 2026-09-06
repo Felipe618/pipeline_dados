@@ -6,6 +6,7 @@ Pipeline ETL em Python orientado a objetos para leitura, padronização e fusão
 
 ## 📁 Estrutura do Projeto
 
+```text
 pipeline_dados/
 ├── data_raw/               # Arquivos brutos de entrada (JSON e CSV)
 ├── data_processed/         # Arquivos consolidados de saída
